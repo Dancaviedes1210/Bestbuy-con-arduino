@@ -3,6 +3,8 @@ El proyecto BestBuy (CRUD) con dashboard se desarrolló en Microsoft Visual Stud
 
 Link para visualizar el repositorio del proyecto https://github.com/Grauben98/BestBuy
 
+
+
 # Donde cada herramienta se utilizó para lo siguiente
 
 MySQL, para la creación de una base de datos que almacene toda la información relacionada con el sistema.
@@ -29,3 +31,18 @@ Arduino, para la creación de una interfaz de usuario para un empleado de almac�
 # Después se clickea en el ID del articulo a comprar para desplegar la ventana siguiente
 
 ![vista1](https://user-images.githubusercontent.com/74988499/139133541-0ab4ece8-aff9-4218-b2ca-0d0b3a9b4738.PNG)
+
+
+# En la ventana de dashboard se pueden agregar trabajadores
+
+![dashboard](https://user-images.githubusercontent.com/74988499/139140463-db9a567c-b09b-43f9-a83a-55ae7d9dfd75.PNG)
+![add-worker](https://user-images.githubusercontent.com/74988499/139140498-b5791f1f-e0b4-43a0-9673-8a59b29052a7.PNG)
+
+# En la parte de logistica se logran ver las compras por parte de los clientes
+![dashboard2logistica](https://user-images.githubusercontent.com/74988499/139140749-d29e8831-1840-4586-a2ab-c6cae8642c90.PNG)
+
+# En la parte de productos del dashboard se ven las gráficas de diferentes productos, los cuales se seleccionan por una lista desplegable
+![dashboard2](https://user-images.githubusercontent.com/74988499/139140862-9e4bf3e5-cab4-4a9b-9a2e-a790ebff1344.PNG)
+
+
+
